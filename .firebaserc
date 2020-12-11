@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfire-d3db4": {
+      "hosting": {
+        "AngularFire": [
+          "angularfire-d3db4"
+        ]
+      }
+    }
+  }
+}
